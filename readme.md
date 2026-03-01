@@ -58,7 +58,7 @@ The final dashboard enables data-driven decision-making by translating analytica
 ### HR Analytics Dashboard Preview
 
 <p align="center">
-  <img src=Screenshot 2026-03-02 002357.png width="900">
+  <img src="Screenshot 2026-03-02 002357.png" width="900">
 </p>
 
 
