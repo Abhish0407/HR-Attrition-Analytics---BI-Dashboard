@@ -1,18 +1,21 @@
-# 📊HR Analytics Dashboard -- Power BI Project
+# 📊HR Attrition Analytics: End to End Analytics Project
 
 ## 📌 Project Overview
 
-This project presents an interactive **HR Analytics Dashboard** built
-using **Microsoft Power BI** to analyze employee performance, attrition
-trends, and workforce distribution through data-driven insights.
+This project delivers an end-to-end HR Analytics solution, starting with data cleaning, ETL, exploratory data analysis (EDA), and feature engineering in Python (Pandas, NumPy, Seaborn), followed by the development of an interactive Power BI dashboard for business insights.
 
-The dashboard provides a comprehensive overview of workforce trends and
-helps HR teams make informed decisions to improve employee retention and
-organizational performance.
+The workflow involved preprocessing 15,000+ employee records, performing correlation and statistical analysis to identify key attrition drivers such as salary, tenure, and department trends. The processed dataset was then modeled in Power BI to build dynamic visualizations analyzing attrition rate, salary distribution, age groups, job roles, and workforce metrics.
 
+The final dashboard enables data-driven decision-making by translating analytical findings into actionable HR insights focused on employee retention and workforce optimization.
 ------------------------------------------------------------------------
 
 ## 🛠 Tool Used
+
+## 🐍 Data Processing & Analysis (Python)
+
+- Performed ETL, data cleaning, and preprocessing on 15,000+ HR employee records using Pandas and NumPy  
+- Conducted Exploratory Data Analysis (EDA), correlation analysis, and feature engineering to identify key attrition drivers  
+- Generated structured insights and prepared the transformed dataset for Power BI dashboard modeling
 
 **Microsoft Power BI**
 
@@ -32,6 +35,9 @@ organizational performance.
 
 
     HR-Analytics-Dashboard/
+    │
+    ├── EDA
+    │   └── HR_Analytics_.ipynb
     │
     ├── Dashboard/
     │   └── HR_Analytics_Dashboard.pbix
