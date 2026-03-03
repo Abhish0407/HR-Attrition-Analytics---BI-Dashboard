@@ -157,8 +157,9 @@ Higher attrition observed in early tenure years.
 ------------------------------------------------------------------------
 ## 👩‍💻 Author
 
-**Abhishek Raj**
-- Aspiring Data Analyst Python \| Excel \| SQL \| Power BI
+## **Abhishek Raj**
+
+Aspiring Data Analyst Python \| Excel \| SQL \| Power BI
 
 - 📧 Email: araj9797@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/abhishek-raj1234
