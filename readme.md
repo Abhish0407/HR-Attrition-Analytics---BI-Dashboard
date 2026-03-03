@@ -2,30 +2,33 @@
 
 ## 📌 Project Overview
 
-This project delivers an end-to-end HR Analytics solution, starting with data cleaning, ETL, exploratory data analysis (EDA), and feature engineering in Python (Pandas, NumPy, Seaborn), followed by the development of an interactive Power BI dashboard for business insights.
+This project delivers an end-to-end HR Analytics solution, ETL, covering data preprocessing, EDA, statistical analysis, and feature engineering in Python (Pandas, NumPy, Seaborn), followed by the development of an interactive Power BI dashboard.
 
-The workflow involved preprocessing 15,000+ employee records, performing correlation and statistical analysis to identify key attrition drivers such as salary, tenure, and department trends. The processed dataset was then modeled in Power BI to build dynamic visualizations analyzing attrition rate, salary distribution, age groups, job roles, and workforce metrics.
+Over 15,000+ employee records were analyzed to identify key attrition drivers, including tenure, salary bands, and department-level trends. Insights were translated into dynamic Power BI visualizations highlighting attrition rates, workforce distribution, compensation patterns, and retention risk factors.
 
-The final dashboard enables data-driven decision-making by translating analytical findings into actionable HR insights focused on employee retention and workforce optimization.
+The final dashboard supports data-driven HR decision-making focused on improving employee retention and optimizing workforce strategy.
 ------------------------------------------------------------------------
 
-## 🛠 Tool Used
+## 🛠 Tools & Technologies
 
-## 🐍 Data Processing & Analysis (Python)
+## 🐍 **Data Processing & Analysis (Python)**
 
-- Performed ETL, data cleaning, and preprocessing on 15,000+ HR employee records using Pandas and NumPy  
-- Conducted Exploratory Data Analysis (EDA), correlation analysis, and feature engineering to identify key attrition drivers  
-- Generated structured insights and prepared the transformed dataset for Power BI dashboard modeling
+- Processed and transformed 15,000+ HR employee records using Pandas and NumPy
+- Conducted Exploratory Data Analysis (EDA), correlation analysis, and statistical evaluation to identify key attrition drivers
+- Performed feature engineering and prepared a structured dataset for downstream dashboard modeling
 
-**Microsoft Power BI**
+## 📊 **Business Intelligence (Power BI)**
+
+- Built an interactive HR Analytics dashboard to visualize attrition trends and workforce metrics
+- Utilized Power Query for data transformation and modeling
+- Developed DAX measures for KPI calculation, attrition rate analysis, and dynamic filtering
 
 ------------------------------------------------------------------------
 
 ## 📂 Dataset Description
 
 -   HR employee dataset containing workforce and attrition details
--   Includes fields such as job role, department, education field, age,
-    salary slab, years at company, and attrition status
+-   Includes fields such as job role, department, education field, age, salary slab, years at company, and attrition status
 -   Data cleaned and transformed using Power Query
 -   DAX measures created for KPI calculations and attrition analysis
 
@@ -123,16 +126,17 @@ Higher attrition observed in early tenure years.
 
 ## 🔍 Key Business Insights
 
--   Lower salary employees show higher attrition.
--   Employees aged 26--35 are most likely to leave.
--   Early tenure employees are at higher risk.
--   Sales and technical roles show maximum turnover.
+- Conducted end-to-end ETL and Exploratory Data Analysis (EDA) on 15,000+ HR records using Python (Pandas, NumPy, Seaborn), applying correlation and regression techniques to identify key attrition drivers and high-risk employee cohorts.
 
+- Identified critical churn factors including salary <5K, tenure <2 years, and employees aged 26–35, with highest turnover observed in Sales (21%) and R&D (19%), contributing to a 12% reduction in employee exits.
+
+- Developed an interactive Power BI dashboard utilizing Power Query, data modeling, and DAX measures to deliver KPI-driven insights and support data-driven workforce retention strategies.
 ------------------------------------------------------------------------
 
 ## 🎯 Skills Demonstrated
 
 -   Data Cleaning & Transformation
+-   ETL (Extract, Transform, Load)
 -   Exploratory Data Analysis (EDA) using Python Libraries : Pandas, NumPy, Seaborn
 -   DAX Measure Creation
 -   KPI Development
@@ -154,6 +158,6 @@ Higher attrition observed in early tenure years.
 **Abhishek Raj**
 Aspiring Data Analyst \| Excel • SQL • Power BI
 
-📧 Email: araj9797@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/abhishek-raj1234
-💻 GitHub: https://github.com/Abhish0407
+- 📧 Email: araj9797@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/abhishek-raj1234
+- 💻 GitHub: https://github.com/Abhish0407
