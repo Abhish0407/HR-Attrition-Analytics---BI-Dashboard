@@ -1,4 +1,5 @@
-# 📊HR Attrition Analytics: End to End Analytics Project
+# 📊HR Attrition Intelligence & Workforce Analytics 
+## Complete End-to-End Data Analytics Project
 
 ## 📌 Project Overview
 
