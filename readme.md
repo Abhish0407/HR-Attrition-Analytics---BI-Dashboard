@@ -8,6 +8,7 @@ This project delivers an end-to-end HR Analytics solution, ETL, covering data pr
 Over 15,000+ employee records were analyzed to identify key attrition drivers, including tenure, salary bands, and department-level trends. Insights were translated into dynamic Power BI visualizations highlighting attrition rates, workforce distribution, compensation patterns, and retention risk factors.
 
 The final dashboard supports data-driven HR decision-making focused on improving employee retention and optimizing workforce strategy.
+
 ------------------------------------------------------------------------
 
 ## 🛠 Tools & Technologies
